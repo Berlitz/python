@@ -1,3 +1,3 @@
 # python
 
-MY own practice.
+my own practice.
